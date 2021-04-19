@@ -1,0 +1,13 @@
+body
+{
+	background-image:url("login_background.jpg");
+    background-size: cover;
+}
+
+.login_div1 , .login_div2
+{
+background: rgb(57, 188, 206);
+padding: 10px;
+float: none;
+border-radius: 15px;
+}
